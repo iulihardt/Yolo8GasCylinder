@@ -5,6 +5,7 @@ This repository contains code and resources related to Gas Cylinder Detection us
 ## Project Overview
 
 This project aims to develop and train a YOLOv8 model to detect gas cylinders in images and videos. YOLO (You Only Look Once) is a real-time object detection system that can detect multiple objects in images and videos quickly and accurately.
+You can see two notebooks, they have a diference in YOLO model usagem, one of them is small and the other is te medium Yolo8 Model.
 
 ## Getting Started
 
