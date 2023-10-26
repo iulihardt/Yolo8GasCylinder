@@ -13,7 +13,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/iulihardt/Yolo8GasCylinder.git```
+   git clone https://github.com/iulihardt/Yolo8GasCylinder.git
 
  
 
